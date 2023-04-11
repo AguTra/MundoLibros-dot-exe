@@ -35,7 +35,7 @@
     max-height: 200px;
   }**/
 #abajo {
-    background-image: url(/img/footer.jpg);
+    background-image: url(../img/footer.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 50px;
@@ -133,23 +133,6 @@ body {
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
