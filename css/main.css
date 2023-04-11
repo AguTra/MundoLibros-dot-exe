@@ -128,12 +128,9 @@ body {
         grid-row: 1;
         grid-column: 4;
     }
-    ol li img {
-        height: 250px;
-        width: 175px;
-    }
-    .aliniamientos{
-        margin-left: -10%;
+    ol li a img{
+        height: 50vh;
+        width: 75vw;
     }
 }
 
